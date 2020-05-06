@@ -1,0 +1,34 @@
+-----------------------------
+========== READ ME ==========
+-----------------------------
+
+
+-----------------------------
+|||||=== DESCRIPTION ===|||||
+-----------------------------
+
+***This project was well tested in so many times and it is working correctly.***
+
+(Since i am doing the payment service it is difficult to implement a this kind of CRUD operation to
+the payment service. Because you know normally we can not update or delete payment details. 
+So here i used a sub table of the payments service to perform this CRUD operation. So in here
+we can see the payers' information according to the payment id. Also we can update and delete their information.)
+
+----------------------------
+|||||=== HOW TO RUN ===|||||
+----------------------------
+
+#I have attached the DB ("paf_project"). In order to run this project, import the DB to the XAMPP(localhost/root/no password)
+#When you are running this project, your computer should has an active internet connection since i have used BOOTSTRAP.
+#To RUN this project = Import this project to eclipse > Start TomCat 9.0 > RUN
+
+----------------------
+|||||=== MORE ===|||||
+----------------------
+
+#Here I have attached my project files with a video solution. If you want you can take it from here.
+= https://mysliit-my.sharepoint.com/:f:/g/personal/it18073256_my_sliit_lk/EiZ89dys_NtBqFgX-5L2ckQBVXcB4uumkgL6qd396HT1cg?e=ej0kLS
+
+
+IT18073256 | Dilshan K.K.D.N.
+THANK YOU!!
